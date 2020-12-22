@@ -13,7 +13,6 @@
 int main()
 {
     vector<Person> myVector;
-    vector<Person>::iterator it;
     string _name;
     int _age;
     int list = -1;
