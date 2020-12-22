@@ -139,8 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="delList.cpp" />
+    <ClCompile Include="entireList.cpp" />
+    <ClCompile Include="findList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="funcs.hpp" />
+    <ClCompile Include="putList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

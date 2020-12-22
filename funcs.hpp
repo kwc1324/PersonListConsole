@@ -20,3 +20,8 @@ public:
         return age;
     }
 };
+
+void entireList(vector<Person>& myVector);
+void findList(vector<Person>& myVector);
+void delList(vector<Person>& myVector);
+void putList(vector<Person>& myVector);
